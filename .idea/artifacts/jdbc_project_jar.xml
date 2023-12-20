@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jdbc project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jdbc_project_jar</output-path>
+    <root id="archive" name="jdbc project.jar">
+      <element id="module-output" name="jdbc project" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/comm-2.0.jar.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-20231013.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jssc-2.9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/slf4j-jdk-platform-logging-2.0.9-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/java-json.jar/java-json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jamod-1.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jdbc project" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/comm-2.0.jar/comm-2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
